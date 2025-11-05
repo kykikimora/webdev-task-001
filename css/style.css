@@ -1,0 +1,17 @@
+* {
+    margin: 1;
+    padding: 1;
+    box-sizing: border-box;
+}
+
+html {
+    background-color: oldlace;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #335;
+    line-height: 2.0;
+    padding: 20px;
+}
+
+/* why would I put or not put certian elements within * vs html?*/
+
+ 
