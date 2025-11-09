@@ -14,4 +14,10 @@ html {
 
 /* why would I put or not put certian elements within * vs html?*/
 
- 
+ .wrapper {
+    margin-inline: auto;
+    max-width: 100%;
+    max-height: 100%;
+ }
+
+  
